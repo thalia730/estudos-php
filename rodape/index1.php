@@ -11,3 +11,5 @@ require_once "index.php";
         <?php exibirRodape("comidasMM", 2026); ?>
     </body>
 </html>
+
+
